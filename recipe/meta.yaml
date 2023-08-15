@@ -18,6 +18,7 @@ requirements:
     - python
     - setuptools
     - wheel
+    - pip
   run:
     - python
     - json-stream-rs-tokenizer >=0.4.17
